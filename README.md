@@ -1,5 +1,21 @@
 # Isomorphic
 
+> Feature-rich React TypeScript Admin Dashboard built with Next.js 14, featuring 65+ pages, 57+ UI components, and comprehensive business modules.
+
+## Documentation
+
+**📚 [Complete Documentation](docs/README.md)** - Comprehensive documentation optimized for MCP server integration and AI-assisted development.
+
+### Quick Links
+
+- [Getting Started](docs/01-getting-started.md) - Installation and setup
+- [Architecture](docs/02-architecture.md) - System design and patterns
+- [Components](docs/03-components.md) - UI component library (57+ components)
+- [Hooks](docs/04-hooks.md) - Custom React hooks (23+ hooks)
+- [Features](docs/06-features/) - Feature-specific documentation
+- [Development Guide](docs/15-development-guide.md) - Building with Isomorphic
+- [MCP Server Setup](docs/18-mcp-server-setup.md) - AI assistant integration
+
 ## Getting Started
 
 System Requirements:
@@ -29,12 +45,27 @@ You can start editing the page by modifying `app/(hydrogen)/page.tsx`. The page 
 
 checkout our `package.json` scripts for more command.
 
-## Learn More.
+## Learn More
 
-To learn more about Isomorphic, take a look at the following resources:
+### Documentation Resources
 
-- [Isomorphic Documentation](https://isomorphic-doc.vercel.app/) - learn about isomorphic.
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- **[📁 Local Documentation](docs/README.md)** - Complete documentation in this repository
+- **[🌐 Official Isomorphic Docs](https://isomorphic-doc.vercel.app/)** - Online documentation
+- **[⚛️ Next.js Documentation](https://nextjs.org/docs)** - Next.js features and API
+- **[🎨 RizzUI Components](https://rizzui.com/)** - Component library documentation
+
+### Key Features
+
+- ✅ **65+ Pages** - Pre-built pages and templates
+- ✅ **57+ Components** - Reusable UI components (RizzUI based)
+- ✅ **23+ Custom Hooks** - React hooks for common patterns
+- ✅ **6 Dashboards** - File Manager, E-commerce, Analytics, Executive, Logistics, Support
+- ✅ **4 Layouts** - Hydrogen, Helium, Lithium, Beryllium
+- ✅ **Complete Modules** - E-commerce, Logistics, Support, Invoice, POS, Calendar
+- ✅ **TypeScript** - Full type safety
+- ✅ **Tailwind CSS** - Utility-first styling with 12+ theme presets
+- ✅ **Next.js 14** - App Router with server components
+- ✅ **Dark Mode** - Built-in theme switching
 
 ## Deploy on Vercel
 
